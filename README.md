@@ -1,4 +1,4 @@
 # shareposts
 
-This Project demonstrates a MVC. SQL database is included as file. 
-Source: udemy/Instructor Brad Traversy
+This Project demonstrates a MVC with a CRUD application
+Source: udemy/Brad Traversy
